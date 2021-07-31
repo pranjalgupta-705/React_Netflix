@@ -1,2 +1,2 @@
-# React_Netflix
-This is a simple react app 
+# Netflix-Series-List
+A webpage that displays the best web series of Netflix in 2020. 
